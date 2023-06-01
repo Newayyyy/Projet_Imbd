@@ -1,0 +1,11 @@
+[theme]
+primaryColor="#e13102"
+backgroundColor="#910c00"
+secondaryBackgroundColor="#e13102"
+textColor="#f5f5f5"
+font="serif"
+
+
+hideTopBar = true
+
+
